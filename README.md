@@ -2,7 +2,7 @@
 
 A simple web-based AI chatbot built using **HTML**, **CSS**, and **JavaScript**, powered by **Google's Gemini 1.5 Flash model** via the Generative Language API.
 
-This project was created during the **"Build Your Own GPT"** workshop organized by **IETE Students Forum** at **Madhav Institute of Technology and Science, Gwalior** in collaboration with **Coding Thinker**.
+This project was created by me during the **"Build Your Own GPT"** workshop organized by **IETE Students Forum** at **Madhav Institute of Technology and Science, Gwalior** in collaboration with **Coding Thinker**.
 
 ## ✨ Features
 
